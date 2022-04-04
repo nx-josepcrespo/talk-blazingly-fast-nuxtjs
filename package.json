@@ -1,7 +1,7 @@
 {
-  "name": "talk-blazingly-fast-nuxtjs",
+  "name": "Nuxt.js + Storyblok",
   "version": "1.0.0",
-  "description": "My great Nuxt.js project",
+  "description": "Nuxt.js + Storyblok integration",
   "author": "Samuel Snopko",
   "private": true,
   "scripts": {
