@@ -16,7 +16,7 @@ yarn install
 cp .env.template .env
 ```
 
-Replace `STORYBLOCK_ACCESS_TOKEN` in `.env` file with your API TOKEN from your Storyblok space.
+Replace `STORYBLOK_ACCESS_TOKEN` in `.env` file with your API TOKEN from your Storyblok space.
 
 
 ## Serve with hot reload at localhost:3000
