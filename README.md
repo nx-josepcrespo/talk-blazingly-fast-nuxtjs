@@ -1,6 +1,6 @@
 # Nuxt.js + Storyblok
 
-> This is a regular [Nuxt.js v2](https://nuxtjs.org) project that uses the official [Storyblok module](https://github.com/storyblok/storyblok-nuxt).
+> This is a regular [Nuxt.js](https://nuxtjs.org) project that uses the official [Storyblok module](https://github.com/storyblok/storyblok-nuxt).
 
 ## Build Setup
 
@@ -21,7 +21,7 @@ Replace `STORYBLOK_ACCESS_TOKEN` in `.env` file with your API TOKEN from your St
 
 ## Serve with hot reload at localhost:3000
 
-```
+```bash
 yarn dev
 ```
 
@@ -37,4 +37,8 @@ yarn build && yarn start
 yarn generate
 ```
 
-Check out [Nuxt.js docs](https://nuxtjs.org) for more info.
+## Extended documentation
+
+Check out [Nuxt.js docs](https://nuxtjs.org) for more info about this marvelous framework.
+
+Check out [Storyblok docs](https://www.storyblok.com/docs/guide/introduction) for more info about Storyblok.
